@@ -1,0 +1,4 @@
+Function name     |     Worked time     |     Arguments as List     |     Arguments as dictionary     |     Results
+sum             |     2022-08-31 14:38:54.647132      |   (1, 2)      |      {}      |      3
+divide             |     2022-08-31 14:38:54.647186      |   ()      |      {'a': 4, 'b': 2}      |      2.0
+divide             |     2022-08-31 14:38:54.647216      |   (10, 0)      |      {}      |      division by zero
